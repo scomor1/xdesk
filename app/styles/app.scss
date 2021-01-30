@@ -1,0 +1,20 @@
+//@import '../vendor/bootstrap-4.1.3/scss/bootstrap';
+//@import '../vendor/slick/slick';
+
+@import 'abstracts/base'; 
+@import 'abstracts/fonts';
+@import 'abstracts/owl.carousel.min.scss';
+@import 'abstracts/owl.theme.default.min.scss';
+
+@import "abstracts/screen"; 
+
+@import "partials/_header";
+@import "partials/_footer";
+@import "partials/shapes";
+
+@import "partials/_section_xy";
+
+@import "pages/contact"; 
+@import "pages/homepage"; 
+@import "pages/services"; 
+

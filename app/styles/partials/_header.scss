@@ -1,0 +1,77 @@
+.header {
+    &.fixed-top {
+        background-color: rgba(255, 255, 255, 0.9);
+        border-bottom: 1px solid #DCDCDC;
+    }
+}
+.navbar {
+    background-color: white;
+    padding-left: 0;
+    padding-right: 0;
+    @include mq(desktop) {
+        background-color: transparent;
+        padding: .5rem 1rem;
+    }
+    .navbar-toggler {
+        border: none;
+        .close1 {
+            max-width: 30px;
+        }
+        .fas {
+            font-size: 30px;
+            color: #00589c;
+        }
+    }
+    .logo {
+        max-width: 100px;
+        transition: 0.3s;
+        @include mq(desktop) {
+            max-width: 210px;
+        }
+        &.small-logo {
+            max-width: 100px;
+            @include mq(desktop) {
+                max-width: 130px;
+            }
+        }
+    }
+    .navbar-nav {
+        margin-top: 30px;
+        @include mq(desktop) {
+            margin-top: 0;
+        }
+    }
+    .nav-item {
+        padding: 0 10px;
+        .nav-link { 
+            color: #5c5c5c;
+            font-size: 14px;
+            text-transform: uppercase;
+            font-weight: bold;
+            &.button-link {
+                border: 1px solid transparent;
+                transition: .3s;
+                background-color: #00589c;
+                padding: 10px 15px;
+                color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100%;
+                border-radius: 4px;
+                margin-top: 20px;
+                &:hover{
+                    border-color: #00589c;
+                    background-color: white;
+                    color: #00589c; 
+                }
+                @include mq(desktop) {
+                    padding: 0 15px;
+                    margin-top: 0;
+                }
+            }
+        }
+    }
+}
+
+//transition: transform .2s;

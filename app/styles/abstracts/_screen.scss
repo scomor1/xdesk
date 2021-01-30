@@ -1,0 +1,36 @@
+// colors
+$light: rgba(255,255,255,1);
+$dark: rgba(0,0,0,1);
+$purple: rgba(136,93,248,1);
+$green: rgba(76,201,158,1);
+$pink: rgba(251,24,148,1);
+
+
+$base: 100%;
+
+label {
+  display: block;
+}
+
+html, body {
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  margin: 0;
+
+
+}
+ 
+body {
+  font-family: 'Open Sans', sans-serif;
+  a {
+    &:hover {
+      text-decoration: none !important; 
+    }
+  }
+}
+
+:focus {
+  outline: 0 !important;
+}
