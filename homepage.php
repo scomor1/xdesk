@@ -1,5 +1,5 @@
 <section class="hero-section">
-    <img class="img-fluid hero" src="/dist/images/hero-bckg.png" alt="Hero background">
+    <img class="img-fluid hero" src="/dist/images/hero-bckg.jpg" alt="Hero background">
     <div class="container wider mb-5">
         <div class="row">
             <div class="col-12 col-lg-5 column">
