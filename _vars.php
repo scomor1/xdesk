@@ -18,6 +18,9 @@ switch ($page) {
     case 'contact':
         $body_class = 'contact';
         break;
+    case 'loneprogram':
+        $body_class = 'loneprogram';
+        break;
 
 }
 

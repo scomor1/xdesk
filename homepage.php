@@ -420,7 +420,6 @@
 
 
 </section>
-
 <section class="partners-section d-none d-lg-block">
     <p>NÅGRA AV VÅRA PARTNERS, KOPPLINGAR OCH TJÄNSTER</p>
     <div class="container">

@@ -15,6 +15,9 @@
                  margin-bottom: 20px;
                  img {
                     max-width: 285px;
+                    @include mq(desktop) {
+                        max-width: 100%;
+                    }
                  }
              }
          }

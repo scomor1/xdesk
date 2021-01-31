@@ -12,7 +12,7 @@
         </div>
     </div>
     <div class="map"> 
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2180.2095146761317!2d14.789669915974489!3d56.876650580868855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465723f5a03c8c89%3A0x9a48a7ad663db6d!2zUmVnZW1lbnRzZ2F0YW4gOSwgMzUyIDM2IFbDpHhqw7YsIMWgdmVkc2th!5e0!3m2!1shr!2sba!4v1612021713901!5m2!1shr!2sba" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <iframe title="Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2180.2095146761317!2d14.789669915974489!3d56.876650580868855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465723f5a03c8c89%3A0x9a48a7ad663db6d!2zUmVnZW1lbnRzZ2F0YW4gOSwgMzUyIDM2IFbDpHhqw7YsIMWgdmVkc2th!5e0!3m2!1shr!2sba!4v1612021713901!5m2!1shr!2sba" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     </div>
 </section>
 <section class="contact-info py-2 py-md-5">

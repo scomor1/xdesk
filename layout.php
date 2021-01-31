@@ -1,12 +1,12 @@
 <?php
 include_once __DIR__ . "/_vars.php";
 ?>
-<!doctype html>
-<html class="no-js" lang="bs-BA">
+<!doctype html> 
+<html class="no-js" lang="sv">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>FK Sarajevo</title>
+        <title>Sveriges bästa webbaserade Ekonomisystem | Xdesk</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" sizes="57x57" href="/assets/media/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="/assets/media/apple-icon-60x60.png">
@@ -26,11 +26,12 @@ include_once __DIR__ . "/_vars.php";
         <meta name="msapplication-TileImage" content="/assets/media/ms-icon-144x144.png">
         <meta name="theme-color" content="#f16e20">
         <!-- share -->
-        <meta name="description" content="FK Sarajevo" />
-        <meta property="og:title" content="FK Sarajevo" />
-        <meta property="og:description" content="FK Sarajevo" />
+        <meta name="description" content="Xdesk är Sveriges bästa leverantör av webbaserade löneprogram, bokföringsprogram, faktureringsprogram mfl." />
+        <meta property="og:title" content="Xdesk - Sveriges bästa webbaserade Ekonomisystem" />
+        <meta property="og:description" content="Xdesk är Sveriges bästa leverantör av webbaserade löneprogram, bokföringsprogram, faktureringsprogram mfl." />
         <meta property="og:type" content="website" /> 
-        <meta property="og:url" content="" />
+        <meta property="og:url" content="https://www.xdesk.se/"/>
+        <meta property="og:site_name" content="Xdesk">
         <meta property="og:image" content="/assets/media/share.jpg" />
         <link rel="preload" as="image" href="/dist/images/logo.png">
         <link rel="preload" as="image" href="/dist/images/close.png">
