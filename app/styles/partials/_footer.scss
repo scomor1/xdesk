@@ -13,6 +13,11 @@
              a {
                  display: inline-block;
                  margin-bottom: 20px;
+                 &:last-of-type {
+                     img { 
+                         max-width: 80px;
+                     }
+                 }
                  img {
                     max-width: 285px;
                     @include mq(desktop) {
